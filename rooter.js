@@ -10,7 +10,7 @@ Router.route('/', {
 	},
 	action: function () {
 	    if (this.ready()){
-	    	document.title = "Hamster";
+	    	document.title = "Dmitriy Skudarnov";
 	      	this.render('home');
 	    }
 	}
